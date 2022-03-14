@@ -23,7 +23,7 @@ SMSSpamCollection: https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
 
 2. Start Jupyter Notebook. There are 2 ways:
 
-   * Run `jupyter notebook`
+   * Run `jupyter notebook` then open the `.ipynb` file in the browser UI
 
    * Open `.ipynb` file in VS Code (you must have Python extension installed)
 
